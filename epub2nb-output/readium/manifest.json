@@ -1,0 +1,286 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Pábitelé",
+    "identifier": "urn:uuid:36a18549-757d-472f-94c0-eac8c5d3978f",
+    "author": "Bohumil Hrabal",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2019-09-03T00:00:00.000Z",
+    "published": "2019-08-27T00:00:00.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pabitele_018.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/pabitele_idstyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/kocka.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_pabitele_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Jarmilka",
+      "children": [
+        {
+          "title": "1",
+          "href": "OEBPS/Text/pabitele_006.xhtml#toc_marker-1-1"
+        },
+        {
+          "title": "2",
+          "href": "OEBPS/Text/pabitele_006.xhtml#toc_marker-1-2"
+        },
+        {
+          "title": "3",
+          "href": "OEBPS/Text/pabitele_006.xhtml#toc_marker-1-3"
+        },
+        {
+          "title": "4",
+          "href": "OEBPS/Text/pabitele_006.xhtml#toc_marker-1-4"
+        },
+        {
+          "title": "5",
+          "href": "OEBPS/Text/pabitele_006.xhtml#toc_marker-1-5"
+        },
+        {
+          "title": "6",
+          "href": "OEBPS/Text/pabitele_006.xhtml#toc_marker-1-6"
+        },
+        {
+          "title": "7",
+          "href": "OEBPS/Text/pabitele_006.xhtml#toc_marker-1-7"
+        },
+        {
+          "title": "8",
+          "href": "OEBPS/Text/pabitele_006.xhtml#toc_marker-1-8"
+        }
+      ],
+      "href": "OEBPS/Text/pabitele_006.xhtml#toc_marker-1"
+    },
+    {
+      "title": "Pan notář",
+      "children": [
+        {
+          "title": "1",
+          "href": "OEBPS/Text/pabitele_007.xhtml#toc_marker-2-1"
+        },
+        {
+          "title": "2",
+          "href": "OEBPS/Text/pabitele_007.xhtml#toc_marker-2-2"
+        },
+        {
+          "title": "3",
+          "href": "OEBPS/Text/pabitele_007.xhtml#toc_marker-2-3"
+        }
+      ],
+      "href": "OEBPS/Text/pabitele_007.xhtml#toc_marker-2"
+    },
+    {
+      "title": "Pohřeb",
+      "children": [
+        {
+          "title": "1",
+          "href": "OEBPS/Text/pabitele_008.xhtml#toc_marker-3-1"
+        },
+        {
+          "title": "2",
+          "href": "OEBPS/Text/pabitele_008.xhtml#toc_marker-3-2"
+        }
+      ],
+      "href": "OEBPS/Text/pabitele_008.xhtml#toc_marker-3"
+    },
+    {
+      "title": "Bambini di Praga 1947",
+      "children": [
+        {
+          "title": "1",
+          "href": "OEBPS/Text/pabitele_009.xhtml#toc_marker-4-1"
+        },
+        {
+          "title": "2",
+          "href": "OEBPS/Text/pabitele_009.xhtml#toc_marker-4-2"
+        },
+        {
+          "title": "3",
+          "href": "OEBPS/Text/pabitele_009.xhtml#toc_marker-4-3"
+        },
+        {
+          "title": "4",
+          "href": "OEBPS/Text/pabitele_009.xhtml#toc_marker-4-4"
+        },
+        {
+          "title": "5",
+          "href": "OEBPS/Text/pabitele_009.xhtml#toc_marker-4-5"
+        },
+        {
+          "title": "6",
+          "href": "OEBPS/Text/pabitele_009.xhtml#toc_marker-4-6"
+        },
+        {
+          "title": "7",
+          "href": "OEBPS/Text/pabitele_009.xhtml#toc_marker-4-7"
+        },
+        {
+          "title": "8",
+          "href": "OEBPS/Text/pabitele_009.xhtml#toc_marker-4-8"
+        },
+        {
+          "title": "9",
+          "href": "OEBPS/Text/pabitele_009.xhtml#toc_marker-4-9"
+        }
+      ],
+      "href": "OEBPS/Text/pabitele_009.xhtml#toc_marker-4"
+    },
+    {
+      "title": "Pábitelé",
+      "children": [
+        {
+          "title": "1",
+          "href": "OEBPS/Text/pabitele_010.xhtml#toc_marker-5-1"
+        },
+        {
+          "title": "2",
+          "href": "OEBPS/Text/pabitele_010.xhtml#toc_marker-5-2"
+        }
+      ],
+      "href": "OEBPS/Text/pabitele_010.xhtml#toc_marker-5"
+    },
+    {
+      "title": "Automat Svět",
+      "href": "OEBPS/Text/pabitele_011.xhtml#toc_marker-6"
+    },
+    {
+      "title": "Chcete vidět zlatou Prahu?",
+      "href": "OEBPS/Text/pabitele_012.xhtml#toc_marker-7"
+    },
+    {
+      "title": "Iontoforéza",
+      "href": "OEBPS/Text/pabitele_013.xhtml#toc_marker-8"
+    },
+    {
+      "title": "Dáma s kaméliemi",
+      "href": "OEBPS/Text/pabitele_014.xhtml#toc_marker-9"
+    },
+    {
+      "title": "Diamantové očko",
+      "href": "OEBPS/Text/pabitele_015.xhtml#toc_marker-10"
+    },
+    {
+      "title": "Romance",
+      "children": [
+        {
+          "title": "1",
+          "href": "OEBPS/Text/pabitele_016.xhtml#toc_marker-11-1"
+        },
+        {
+          "title": "2",
+          "href": "OEBPS/Text/pabitele_016.xhtml#toc_marker-11-2"
+        },
+        {
+          "title": "3",
+          "href": "OEBPS/Text/pabitele_016.xhtml#toc_marker-11-3"
+        }
+      ],
+      "href": "OEBPS/Text/pabitele_016.xhtml#toc_marker-11"
+    }
+  ]
+}
