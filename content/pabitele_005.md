@@ -1,10 +1,11 @@
 ---
 title: ''
+hiddenTitle: true
 contentType: prose
 ---
 
-Některé skvrny  
+_Některé skvrny  
 nelze vyčistit  
-bez porušení podstaty látky
+bez porušení podstaty látky_
 
-Lísteček z chemické čistírny
+* * *
