@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Pábitelé",
       "identifier": "urn:uuid:36a18549-757d-472f-94c0-eac8c5d3978f",
       "author": "Bohumil Hrabal",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2019-09-03T00:00:00.000Z"
+      "modified": "2019-09-03T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
@@ -13,7 +17,7 @@
       "h2": "MLP-uroven3-nadpis",
       "h3": "",
       "h4": "",
-      "hr": "",
+      "hr": "MLP-hvezdicky",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
@@ -21,7 +25,7 @@
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP-venovani",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
       "remove": "",
       "ignore": ""
@@ -30,50 +34,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "pabitele_001.md",
             "xhtml": "pabitele_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "pabitele_002.md",
             "xhtml": "pabitele_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "pabitele_003.md",
             "xhtml": "pabitele_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "pabitele_004.md",
             "xhtml": "pabitele_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "pabitele_005.md",
@@ -84,7 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Citát"
           },
           {
             "filename": "pabitele_006.md",
@@ -95,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jarmilka"
           },
           {
             "filename": "pabitele_007.md",
@@ -106,7 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pan notář"
           },
           {
             "filename": "pabitele_008.md",
@@ -117,7 +132,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pohřeb"
           },
           {
             "filename": "pabitele_009.md",
@@ -128,7 +145,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Bambini di Praga 1947"
           },
           {
             "filename": "pabitele_010.md",
@@ -139,7 +158,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pábitelé"
           },
           {
             "filename": "pabitele_011.md",
@@ -150,7 +171,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Automat Svět"
           },
           {
             "filename": "pabitele_012.md",
@@ -161,7 +184,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Chcete vidět zlatou Prahu?"
           },
           {
             "filename": "pabitele_013.md",
@@ -172,7 +197,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Iontoforéza"
           },
           {
             "filename": "pabitele_014.md",
@@ -183,7 +210,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dáma s kaméliemi"
           },
           {
             "filename": "pabitele_015.md",
@@ -194,7 +223,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Diamantové očko"
           },
           {
             "filename": "pabitele_016.md",
@@ -205,18 +236,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Romance"
           },
           {
             "filename": "pabitele_017.md",
             "xhtml": "pabitele_017.xhtml",
             "id": 16,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "pabitele_018.md",
@@ -227,7 +261,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -415,6 +450,6 @@
       "user": "books-are-next",
       "repo": "pabitele"
     },
-    "generatedAt": 1649923641645
+    "generatedAt": 1649924178453
   }
 }

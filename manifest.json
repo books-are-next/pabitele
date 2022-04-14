@@ -1,0 +1,525 @@
+{
+  "author": "Bohumil Hrabal",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "hrabal-pabitele-1f9fdfd",
+  "languagecode": "cs",
+  "modified": "2019-09-03T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Pábitelé",
+  "revision": "1f9fdfd",
+  "generatedAt": {
+    "date": "Thu Apr 14 2022 08:17:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649924250441
+  },
+  "documents": [
+    {
+      "title": "Pábitelé",
+      "file": "pabitele_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "pabitele_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pábitelé",
+      "file": "pabitele_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "pabitele_002.html",
+      "next": "pabitele_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jarmilka • Pábitelé",
+      "file": "pabitele_006.html",
+      "words": 8010,
+      "chars": 45442,
+      "ideas": 326,
+      "role": "chapter",
+      "order": 2,
+      "prev": "pabitele_005.html",
+      "next": "pabitele_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jarmilka",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8",
+              "id": "8",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pan notář • Pábitelé",
+      "file": "pabitele_007.html",
+      "words": 5363,
+      "chars": 31045,
+      "ideas": 139,
+      "role": "chapter",
+      "order": 3,
+      "prev": "pabitele_006.html",
+      "next": "pabitele_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pan notář",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pohřeb • Pábitelé",
+      "file": "pabitele_008.html",
+      "words": 1228,
+      "chars": 7277,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 4,
+      "prev": "pabitele_007.html",
+      "next": "pabitele_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohřeb",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bambini di Praga 1947 • Pábitelé",
+      "file": "pabitele_009.html",
+      "words": 27843,
+      "chars": 164042,
+      "ideas": 1203,
+      "role": "chapter",
+      "order": 5,
+      "prev": "pabitele_008.html",
+      "next": "pabitele_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bambini di Praga 1947",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9",
+              "id": "9",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pábitelé • Pábitelé",
+      "file": "pabitele_010.html",
+      "words": 2584,
+      "chars": 14980,
+      "ideas": 124,
+      "role": "chapter",
+      "order": 6,
+      "prev": "pabitele_009.html",
+      "next": "pabitele_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pábitelé",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Automat Svět • Pábitelé",
+      "file": "pabitele_011.html",
+      "words": 2866,
+      "chars": 16900,
+      "ideas": 103,
+      "role": "chapter",
+      "order": 7,
+      "prev": "pabitele_010.html",
+      "next": "pabitele_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Automat Svět",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chcete vidět zlatou Prahu? • Pábitelé",
+      "file": "pabitele_012.html",
+      "words": 1536,
+      "chars": 9195,
+      "ideas": 81,
+      "role": "chapter",
+      "order": 8,
+      "prev": "pabitele_011.html",
+      "next": "pabitele_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chcete vidět zlatou Prahu?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Iontoforéza • Pábitelé",
+      "file": "pabitele_013.html",
+      "words": 1451,
+      "chars": 8540,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 9,
+      "prev": "pabitele_012.html",
+      "next": "pabitele_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Iontoforéza",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dáma s kaméliemi • Pábitelé",
+      "file": "pabitele_014.html",
+      "words": 1163,
+      "chars": 6891,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 10,
+      "prev": "pabitele_013.html",
+      "next": "pabitele_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dáma s kaméliemi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Diamantové očko • Pábitelé",
+      "file": "pabitele_015.html",
+      "words": 2388,
+      "chars": 14067,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 11,
+      "prev": "pabitele_014.html",
+      "next": "pabitele_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Diamantové očko",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Romance • Pábitelé",
+      "file": "pabitele_016.html",
+      "words": 5101,
+      "chars": 29061,
+      "ideas": 217,
+      "role": "chapter",
+      "order": 12,
+      "prev": "pabitele_015.html",
+      "next": "pabitele_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Romance",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pábitelé",
+      "file": "pabitele_018.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 13,
+      "prev": "pabitele_016.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Pábitelé",
+      "file": "colophon.html",
+      "words": 136,
+      "chars": 913,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
+      "prev": "pabitele_018.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 59674,
+      "chars": 348386,
+      "ideas": 2493
+    },
+    "chapters": {
+      "words": 59533,
+      "chars": 347440,
+      "ideas": 2468
+    }
+  }
+}
