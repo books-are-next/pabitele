@@ -2,12 +2,14 @@
 title: Tiráž
 ---
 
-***
-
-Pábitelé
-
-Bohumil Hrabal
-
+**Bohumil Hrabal    
+Pábitelé**  
+Ilustrace na obálce Eugene Ivanov/Shutterstock.com  
+Redakce Markéta Teuchnerová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
+V MKP 1. elektronické vydání  
+1. vydání z 12. 5. 2022.
 
 ***
 
@@ -23,50 +25,7 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
   
 
-Verze 1.0 z 30. 8. 2019.
 
   
 
 ![image002.jpg](./resources/image002_fmt.jpeg)
-
-
-***
-
-**Bohumil Hrabal  
-Pábitelé**
-
-  
-
-Ilustrace na obálce Eugene Ivanov/Shutterstock.com
-
-  
-
-Redakce Markéta Teuchnerová
-
-  
-
-Vydala Městská knihovna v Praze
-
-  
-
-Mariánské nám. 1, 115 72 Praha 1
-
-  
-
-V MKP 1. elektronické vydání
-
-  
-
-Verze 1.0 z 30. 8. 2019
-
-  
-
-ISBN 978-80-274-0094-2 (epub)
-
-  
-
-ISBN 978-80-274-0095-9 (pdf)
-
-  
-
-ISBN 978-80-274-0096-6 (prc)

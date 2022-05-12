@@ -1,22 +1,40 @@
 {
-  "author": "Bohumil Hrabal",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "hrabal-pabitele-1f9fdfd",
-  "languagecode": "cs",
-  "modified": "2019-09-03T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Pábitelé",
-  "revision": "1f9fdfd",
+  "author": "Bohumil Hrabal",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hrabal-pabitele-8ad521c",
+  "revision": "8ad521c",
+  "readingOrder": [
+    "promo.html",
+    "pabitele_005.html",
+    "pabitele_006.html",
+    "pabitele_007.html",
+    "pabitele_008.html",
+    "pabitele_009.html",
+    "pabitele_010.html",
+    "pabitele_011.html",
+    "pabitele_012.html",
+    "pabitele_013.html",
+    "pabitele_014.html",
+    "pabitele_015.html",
+    "pabitele_016.html",
+    "pabitele_018.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Apr 14 2022 08:17:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649924250441
+    "date": "Thu May 12 2022 10:43:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352212770
   },
   "documents": [
     {
-      "title": "Pábitelé",
-      "file": "pabitele_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +42,7 @@
       "order": 0,
       "prev": null,
       "next": "pabitele_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Pábitelé",
@@ -42,7 +52,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "pabitele_002.html",
+      "prev": "promo.html",
       "next": "pabitele_006.html",
       "toc": [
         {
@@ -55,7 +65,7 @@
       ]
     },
     {
-      "title": "Jarmilka • Pábitelé",
+      "title": "Jarmilka",
       "file": "pabitele_006.html",
       "words": 8010,
       "chars": 45442,
@@ -132,7 +142,7 @@
       ]
     },
     {
-      "title": "Pan notář • Pábitelé",
+      "title": "Pan notář",
       "file": "pabitele_007.html",
       "words": 5363,
       "chars": 31045,
@@ -174,7 +184,7 @@
       ]
     },
     {
-      "title": "Pohřeb • Pábitelé",
+      "title": "Pohřeb",
       "file": "pabitele_008.html",
       "words": 1228,
       "chars": 7277,
@@ -209,7 +219,7 @@
       ]
     },
     {
-      "title": "Bambini di Praga 1947 • Pábitelé",
+      "title": "Bambini di Praga 1947",
       "file": "pabitele_009.html",
       "words": 27843,
       "chars": 164042,
@@ -293,7 +303,7 @@
       ]
     },
     {
-      "title": "Pábitelé • Pábitelé",
+      "title": "Pábitelé",
       "file": "pabitele_010.html",
       "words": 2584,
       "chars": 14980,
@@ -328,7 +338,7 @@
       ]
     },
     {
-      "title": "Automat Svět • Pábitelé",
+      "title": "Automat Svět",
       "file": "pabitele_011.html",
       "words": 2866,
       "chars": 16900,
@@ -348,7 +358,7 @@
       ]
     },
     {
-      "title": "Chcete vidět zlatou Prahu? • Pábitelé",
+      "title": "Chcete vidět zlatou Prahu?",
       "file": "pabitele_012.html",
       "words": 1536,
       "chars": 9195,
@@ -368,7 +378,7 @@
       ]
     },
     {
-      "title": "Iontoforéza • Pábitelé",
+      "title": "Iontoforéza",
       "file": "pabitele_013.html",
       "words": 1451,
       "chars": 8540,
@@ -388,7 +398,7 @@
       ]
     },
     {
-      "title": "Dáma s kaméliemi • Pábitelé",
+      "title": "Dáma s kaméliemi",
       "file": "pabitele_014.html",
       "words": 1163,
       "chars": 6891,
@@ -408,7 +418,7 @@
       ]
     },
     {
-      "title": "Diamantové očko • Pábitelé",
+      "title": "Diamantové očko",
       "file": "pabitele_015.html",
       "words": 2388,
       "chars": 14067,
@@ -428,7 +438,7 @@
       ]
     },
     {
-      "title": "Romance • Pábitelé",
+      "title": "Romance",
       "file": "pabitele_016.html",
       "words": 5101,
       "chars": 29061,
@@ -490,11 +500,11 @@
       ]
     },
     {
-      "title": "Tiráž • Pábitelé",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 136,
-      "chars": 913,
-      "ideas": 21,
+      "words": 119,
+      "chars": 781,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "pabitele_018.html",
@@ -512,9 +522,9 @@
   ],
   "totals": {
     "all": {
-      "words": 59674,
-      "chars": 348386,
-      "ideas": 2493
+      "words": 59657,
+      "chars": 348254,
+      "ideas": 2488
     },
     "chapters": {
       "words": 59533,
