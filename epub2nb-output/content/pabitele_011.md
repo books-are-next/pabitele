@@ -3,8 +3,6 @@ title: Automat Svět
 contentType: prose
 ---
 
-  
-
 Zasklenou stěnou automatu stékaly stříbrné curůčky večerního deště, po náměstíčku kráčelo několik chodců v předklonu a drželo si klobouk nebo deštník.
 
 A do automatu pronikala ze salonku v prvním patře veselá hudba a hovor, který propukal v nezávazný smích. Paní výčepní roztočila piva a šla na toaletu.

@@ -5,8 +5,6 @@ contentType: prose
 
 ## 1
 
-  
-
 Každé ráno se pan notář modlil v rodinné kapli. Byl to pokoj se dvěma okny, na kterých byly obrazy z barevných skel. V jednom tom okně svatý Dionýsius, ač sťat, přeci ještě vstal a nosil tu svou uťatou hlavu kolem popraviště, a ve druhém okně je popravené svaté Agátě uťata ruka a posel s tou useknutou rukou zabloudil a vrátil se tam, odkud vyšel, znovu k té bezruké mrtvole.
 
 Tak pan notář klečel a modlil se, ale přitom si vyčítal, že si nevykloktal ústa. Nakonec se pokřižoval, vstal a otevřel okno.
@@ -153,8 +151,6 @@ Posadil se za stůl a pravil: „Ten nápis, co jste napsala včera, ten nápis
 
 ## 2
 
-  
-
 Manželé Schieslerovi, rolník a rolnice z Bošína, přišli jako první. Pan notář už je znal čtvrt století, když k němu přišli jako novomanželé, oba v selském a s modlitební knížkou, on ve štruksových rajtkách, holínkách a mysliveckém kloboučku, oba tenkrát důstojní jak králové. Dnes přišli zestaraní a oblečení po městsku.
 
 „Tak co je u nás nového?“ optal se pan notář, když je usadil do křesel.
@@ -224,8 +220,6 @@ Pan notář přistoupil k oknu, chvíli se díval na řeku a myslil na strojve
 „Slečno, připravena? Nuže…! Na ten případ, že nás Bůh povolá na věčnost, nařizujeme toto: Za prvé…,“ přednášel pan notář a díval se na plynoucí hladinu řeky, a tak jako vždy, nemohl se vynadívat…
 
 ## 3
-
-  
 
 Po polednách vzal pan notář hůl a vyšel si. Když kráčel od mlýna k mostu, předejela jej dvojice na dvojitém bicyklu a lehce mu zavadila řídítkem o rukáv. To si vyjeli o polední pauze dva bratři, trafikanti, co prodávali tabák a noviny u divadla. Jeden byl slepý, ten seděl vzadu, druhý, ten vidoucí, seděl vpředu. Pan notář, když ještě kouřil, rád si kupoval v jejich trafice cigára, rád se díval, jak slepec hmatem ovládal trafiku, jak už podle zakašlání pana notáře se usmál a sklonil hlavu do okýnka a pozdravil: „Dobrý den, pane notáři!“ A otočil se a rovnou hmátl do správného fochu pro portorika, pak vzal bankovku, kterou zrovna tak rozpoznal v prstech jako pana notáře podle zakašlání. A teď ti dva trafikanti šlapali podle řeky, ještě jednou se pohybovaly jejich obrazy vzhůru nohama v klidné vodě, teď jejich hlavy zmizely pod sukněmi větví lip, ale nohy trafikantů dupaly do pedálů jak spřažené nápravy lokomotivy, a to samé ještě jednou v řece, jak nějaký fantastický stroj o čtyřech kolech… Pan notář se díval a pomyslil si, co kdyby se ti dva trafikanti tak jednou opili a už by byla noc a posadili se na ten svůj tuplovaný bicykl obráceně, ten slepý dopředu a ten vidící dozadu? Kampak by tak dojeli? Možná, kdyby nikoho nepotkali, ten slepý by dojel až domů, možná že zrovna tak dobře zná cestu jak v prstech peníze, jak podle zakašlání pozná své známé…, myslil si pan notář a podle opuštěných koníren s červenýma koňskýma hlavama nade dveřmi vyšel k zahrádkám. Tiše přešel kolem trafiky, do které se vždycky bál pohlédnout. I teď cípem oka viděl trafikantovy ruce, které spočívaly u okénka na stolečku, ruce válečného invalidy, který byl sežehnut ohňometem a který za to dostal řád a trafiku…
 

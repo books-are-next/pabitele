@@ -5,8 +5,6 @@ contentType: prose
 
 ## 1
 
-  
-
 „Tak jsem měl na dnešek příjemnej sen. Zdálo se mi, že klečím v lese před mlátičkou a ze vzduchu přilítá svatý Josef a dělá nade mnou veliký kříž. Ráno jsem hned věděl, že vsadím lední hokej a cyklistiku, protože svatýho Josefa je devatenáctýho, měsíc třetí…,“ řekl Jarda a zapnul si kabát. Když pak chtěl Pepíkovi říct, že sportka velice podporuje snění a význam snů, utrhla mu to venku děsná šupa, pak řinčení a nadávání. Oba zapadli do vytérovaného žlábku pisoáru, a když se zvedali, všiml si Jarda, že k nim zaletěla na mléčném střepu napsaná osmička.
 
 „Jé…, horská služba! Vosmička!“ zaradoval se Jarda.
@@ -90,8 +88,6 @@ Po skoro holé stráni přitáhl až k autu se sáňkama kluk. Nabral hrst anil
 „My vám sem pošleme z Pražačky esenbáka,“ řekl Jarda a vykročil. Opakoval si: „Skok do vody… Krasojízda… Umělecká gymnastika…“
 
 ## 2
-
-  
 
 Na Olšanech vál takový vichr, že holé větve stromů trčely jak žerdě praporů. Vedle hřbitovní kaple hráli prokřehlí hornisti, pohybovali prsty, nadouvali tváře, ale nebylo je skoro slyšet, jak jim vítr utrhával tóny od trub.
 

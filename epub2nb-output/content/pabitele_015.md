@@ -3,8 +3,6 @@ title: Diamantové očko
 contentType: prose
 ---
 
-  
-
 Cestující položil botku na stupátko vagonu, když jej kdosi chytil za rameno. Otočil se a na peronu stál postarší muž.
 
 „Pane, jedete prosím na Prahu?“ optal se.

@@ -5,8 +5,6 @@ contentType: prose
 
 ## 1
 
-  
-
 Zvon zvonil poledne.
 
 Pan Hyrman, obrovský řezník s malinkou zlatou náušničkou v levém uchu, otevřel výkladní skříň a přes řadu vepřových hlav a skrz asparágusy se díval do svého krámu.
@@ -285,8 +283,6 @@ Pan Hyrman se zvedl, odhrnul reprezentanty z Opory v stáří, sehnul se a je
 
 ## 2
 
-  
-
 Krám byl temný a na pultu zářila stříbrná pokladna jak maketa vodní přehrady.
 
 Pan Viktor Tůma, reprezentant Opory v stáří, když vstoupil, uklonil se do dílny, kde u dlouhého stolu seděly čtyři dívky a každá měla před sebou hromádku umělých okvětních lístků, které hbitými prstíky vinuly na drátěné stonky.
@@ -500,8 +496,6 @@ Bednář, když spočítal všecky mince, zvedl provinilé oči a omlouval se:
 A v chladu zanechal gramofon, který rourou, podobnou ohromnému květu svlačce, vyhrával z mnichovské pivnice Fidele Gesellschaft, a kráčel vstříc k náhonu, odkud zaznívalo stříkání vody a jásot nahatých dětí.
 
 ## 3
-
-  
 
 Řetízkový kolotoč stál na samém břehu benátské noci. Ariston metal z jeho útrob na všechny strany šílenou muziku, podobnou obrazům nymf a najád, které zdobily výplně kolotoče. A ramena byla posázena barevnými žárovkami, a když kolotoč dostal rychlost, sedátka se vznášela nad řekou, a kdo se vyklonil, viděl, jak trámy a vzpěry kolotoče rozmíchávají hlubinu, ve které se zrcadlí kružnice z lidských nohou a řetízků a tváří, protože u vody je všeho dvakrát víc.
 
@@ -842,8 +836,6 @@ Pan farář, který se díval dalekohledem na těla krásných dívek, řekl:
 „Já vím, že jste materialista-drogista. Ale lidičky!“ volal velebný pán a pořád držel dalekohled na očích: „Lidičky, ona krása není proti Bohu, naopak!“
 
 ## 4
-
-  
 
 Hostinský pokoj hotelu U Černého koně byl vymalován bíle a nábytek byl taky bílý. Tři mosazné postele, dvě veliké skříně, dva noční stolky a v oknech světle modré záclony. Dveře skříní měly skleněné výplně, za kterými byly světle modré záclonky stažené vprostřed bílou mašličkou.
 
@@ -1261,8 +1253,6 @@ Nad městem visel měsíc a v kašně si pohrával vodotrysk s bílým pingpo
 
 ## 5
 
-  
-
 Za rozcestím okresních silnic stál vůz. A před koněm klečel mužský v kožených rajtkách a krejčovským centimetrem měřil tomu koni obvod kopyt, pak šířku prsou, potom výšku nohy od kolena ke kopytům. A všecko si zapisoval do notejsku.
 
 Za pangejtem stoupala cestička k domku a u toho stavení stálo lešení a za lešením byla bílá zeď a na té zdi byl emailovými barvami vymalován obrovský kůň a tomu koni chyběly přední nohy Na tom koni seděl v podvlíkačkách jezdec a tasil zahnutou šavli.
@@ -1446,8 +1436,6 @@ Pan Bucifal si vykasal rukávy ale pan Antonín Uhde jej vzal za loket.
 „Hele,“ řekl, „některý věci nech tak, jak jsou. Ty myslíš, že někdo jí psy z luxusu?“
 
 ## 6
-
-  
 
 Na konci městečka je ohrada a přes celou tu ohradu se táhne nápis:
 
@@ -1663,8 +1651,6 @@ Pan Viktor ležel naznak v trávě a třepal rukama a nohama a tichounce je�
 
 ## 7
 
-  
-
 Do zlatorůžového večera se valil z hospody mužský zpěv, podmalovaný bubínkem a harmonikou. Několik ženských se míhalo v šeříkových stínech. A proti jantarovému obzoru se tyčila hřbitovní zeď.
 
 Dvě ženy přinesly štafle a přes záclonu se dívaly do lokálu.
@@ -1876,8 +1862,6 @@ Zpívali opálení chlapi v lokále a každý se tvářil, jako by tou písní
 Zmáčený hostinský roznášel lustry piva…
 
 ## 8
-
-  
 
 Z tanečního sálu vedlo do kuchyně matné okénko a v tom mléčném skle byla silueta muže ve fraku, která držela v prstech decentně skleničku jak reklama na aperitiv. Teď přiložila sklínku k ústům a do poslední kapky vypila lahodný šnaps. Pak ta silueta zmizela a v tanečním sále se objevil taneční mistr ve fraku, hned tleskal rukama, postavil se doprostředka parketu, přejel si prstem knoflíky u poklopce a volal:
 
@@ -2114,8 +2098,6 @@ Pan Tonda shodil svrchník, uklonil se Nadje a dlouhými kroky tančil waltz, p
 Zahradnický pomocník předbíhal v opojení všechny tančící a klavírista šilhal očima po zemi, kontroloval prsty a šeptal si: „Už sem ten salám asi sněd…“
 
 ## 9
-
-  
 
 Přes měsíčnou zeď blázince se nakláněly symfonické větve. Pan Bloudek, dozorce, odemkl postranní branku a do ústavní zahrady vešli reprezentanti Opory v stáří. Slečna Nadja nesla košíček přikrytý ubrouskem.
 

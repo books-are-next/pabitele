@@ -3,8 +3,6 @@ title: Iontoforéza
 contentType: prose
 ---
 
-  
-
 Zinkové destičky a utažené fáče tlačily hlavu pana Felixe k podlaze. A taky byl obtočen zelenými a červenými a modrými drátky jak plastická mapa turistickými značkami.
 
 Pak cítil, jak mu elektrický proud probíhá hlavou a v ústech má vůni blesku a spálených kostí.
