@@ -3,6 +3,8 @@ title: Iontoforéza
 contentType: prose
 ---
 
+<section>
+
 Zinkové destičky a utažené fáče tlačily hlavu pana Felixe k podlaze. A taky byl obtočen zelenými a červenými a modrými drátky jak plastická mapa turistickými značkami.
 
 Pak cítil, jak mu elektrický proud probíhá hlavou a v ústech má vůni blesku a spálených kostí.
@@ -170,3 +172,5 @@ Když se narovnal, viděl, že tohle neměl dělat.
 Hrábnul po mase a tou lojovou flaksou udeřil pana Felixe do tváře, až mu zalepil jedno oko. A začal brousit řeznický nůž o vocílku, kterou pořád nosil u pasu. Pan Felix utíkal ulicí a řezník za ním křičel a bodal do sluncem prohřátého vzduchu: „Čuchejte si ke svý pudeli!“
 
 Ke svý pudeli proto, že starý řezník místo „er“ říkával „u“.
+
+</section>

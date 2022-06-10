@@ -3,6 +3,8 @@ title: Automat Svět
 contentType: prose
 ---
 
+<section>
+
 Zasklenou stěnou automatu stékaly stříbrné curůčky večerního deště, po náměstíčku kráčelo několik chodců v předklonu a drželo si klobouk nebo deštník.
 
 A do automatu pronikala ze salonku v prvním patře veselá hudba a hovor, který propukal v nezávazný smích. Paní výčepní roztočila piva a šla na toaletu.
@@ -206,3 +208,5 @@ Vzal za ně a mocným cuknutím, jak se ulamuje větev nebo průvodčí zatáhn
 Zablesklo se a nevěsta stála polonahá ve veřejném parčíku.
 
 „Hele,“ řekla, „udělejte mi taky posmrtnou masku!“
+
+</section>

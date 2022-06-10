@@ -3,6 +3,8 @@ title: Chcete vidět zlatou Prahu?
 contentType: prose
 ---
 
+<section>
+
 Maličký majitel pohřebního ústavu pan Bamba vyšel z města a sestoupil k řece. Pak se vydal k dubinám.
 
 „Pane Bamba!“ Otočil se.
@@ -162,3 +164,5 @@ Na druhé straně vody motor už pracoval, trubač znovu přiložil k ústúm z
 „Chcete vidět zlatou Prahu?“ optal se básník.
 
 „Chci,“ řekl pan Bamba a zavřel oči.
+
+</section>

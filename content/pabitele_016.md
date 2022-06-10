@@ -3,6 +3,8 @@ title: Romance
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Gaston Košilka už chvíli postával před osvětleným Pramenem. A když se znovu podíval do výkladní skříně na svůj obličej, zase si potvrdil to, co už věděl dávno, že se sám sobě vůbec nelíbí, že je docela nenápadný mladík, který se z biografu vrací ještě víc dobit, než byl, když tam šel. Ve výkladní tabuli viděl svoji tvář a bylo mu jasné, že nikdy nemůže s touhle postavou být tím, kým by chtěl. Fanfánem Tulipánem.
@@ -434,3 +436,5 @@ A tam dole se nořila z modrého oparu Praha, elektrické žárovky ještě sv
 „Pozor!“ zvolal starý hlídač a ukázal na chlapečka. „Tohle je možná budoucí prezident… Kdopak to ví!“ a dodal: „Tak vida, cikánečku jste si namluvil! Ale co doma? Co když maminka řekne: ‚Cikánku? Jedině přes mou mrtvolu!‘ Co ji řeknete, he?“
 
 „Řeknu: ‚Tak si lehni, matko, já tě překročím, ta cikánka mě, maminko, postavila na nohy,‘“ řekl Gaston a založil si jednu ruku v bok a díval se do údolí, kde přes bílý most jela tramvaj jak foukací harmonika a v jejích oknech se zatřpytilo jitřní slunce…
+
+</section>
