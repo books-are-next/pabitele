@@ -5,8 +5,6 @@ contentType: prose
 
 ## 1
 
-  
-
 Před cementárnou seděli na lavičce staříci, jeden na druhého křičeli, brali se za klopy a hulákali si do uší.
 
 Na kraj mrholil cementový prach a všechny domky a zahrady byly pokryty jemně mletým vápencem.
@@ -150,8 +148,6 @@ A vyvedla muže za pačesy od pumpy, odhrnula mu vlasy a starostlivě prohléd
 „Na zdravým vzduchu ti to pěkně zaschne,“ řekla a zdvořilým pohybem ruky pozvala mě dál…
 
 ## 2
-
-  
 
 V kuchyni visely tucty zaprášených obrazů.
 

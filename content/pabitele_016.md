@@ -5,8 +5,6 @@ contentType: prose
 
 ## 1
 
-  
-
 Gaston Košilka už chvíli postával před osvětleným Pramenem. A když se znovu podíval do výkladní skříně na svůj obličej, zase si potvrdil to, co už věděl dávno, že se sám sobě vůbec nelíbí, že je docela nenápadný mladík, který se z biografu vrací ještě víc dobit, než byl, když tam šel. Ve výkladní tabuli viděl svoji tvář a bylo mu jasné, že nikdy nemůže s touhle postavou být tím, kým by chtěl. Fanfánem Tulipánem.
 
 A když se znovu pomučil svým obrazem v zasklených dveřích Pramene, objevila se tam cikánka, stiskla kliku a vyšla na Hlavní třídu a v ruce nesla půl bochníku chleba. Gaston se podivil, jaké má ta holka šaty. Byly to dvě proti sobě sešpendlené zástěry, takže když stála na obrubníku chodníku a rozhlížela se na obě strany, aby ji nepřejela tramvaj nebo auto, Gaston nepoznal, kde má ta holka záda a kde hubená prsa. Utřel si z čela pot a řekl:
@@ -175,8 +173,6 @@ A dodal: „Moje tetka říká, že cikáni, jak jich není v cimře patnáct,
 
 ## 2
 
-  
-
 Rozptýlené světlo zadní stěny rádia a zelené oko ozařovaly pokojík. Tam, odkud vytékala muzika, tam se kormoutil džez a trochu poblíž mikrofonům chrčel Louis Armstrong. Teď svoji trubku asi držel na klíně a nastydlým hlasem spíš si něco jen tak pobrukoval, než zpíval, spíš jako by si podesáté sklenici grogu něco vypravoval o věcech, které se staly dávno…
 
 „Ty,“ řekla cikánka z chladných peřin, „ty chujíčku, dej mi pokouřit.“
@@ -308,8 +304,6 @@ Pak rozpínal jeden zavírací špendlík po druhém a ruce se mu chvěly, kdy�
 A za nimi z rádia vytékal džezový zpěv, tři černošky dunivým hlasem zpívaly… Ó Johny…, tři dunivé černošky, které jako by stály na žebříku v hluboké dunivé studni a každé se drala z hrdla píseň o tom samém štěstí nešťastně šťastné lásky… Ó Johny, my darling…
 
 ## 3
-
-  
 
 V křoviskách před Zámečkem zazpíval první pták. Pak se přidávali ostatní a jitřní vzduch byl plný ptačího zpěvu. Gaston zavěšený do cikánky se zastavil před skříňkou s filmovými obrázky. Na plakátě držel Gérard Philipe kord a měl rozhalenou košili.
 

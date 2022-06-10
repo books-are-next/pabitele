@@ -5,8 +5,6 @@ contentType: prose
 
 ## 1
 
-  
-
 Jsem zase na huti. Už zdaleka vidím nosičku Jarmilku, jak vleče kbelíky s polívkou. Spěchám jí vstříc a tak se na ní zahledím, až klopí oči. Je v šestém měsíci, a když otevírá ústa, znovu se přesvědčuji, že jí chybí celá půlka chrupu. Ale ona je prostá, a tím kráska krásek.
 
 Jdu podle ní a šeptám: „Tak Jarmilko, kdypak budeme mít svatbu?“
@@ -60,8 +58,6 @@ Vzala misky od polívek a v rozpacích se kamsi zahleděla. Pak zjihla: „Vy 
 Jarmilka otevřela dveře a zavolala za mnou: „Přijděte, strejdo, zas!“
 
 ## 2
-
-  
 
 Mezi týglovnou a diadurem jsem překopával haldu zrezivělých špon. Potom jsem nakládal ty špony do sázecích koryt. A když se rovnám ve hřbetě, kdo jiný si to necape cestičkou než Jarmilka s basou a kbelíkem.
 
@@ -136,8 +132,6 @@ Přestala počítat, a když viděla, že jí Vašek hledí na břicho, začerv
 Zadýchala se, až zčervenala. Rozepjala si jupičku a vyběhla k pecím.
 
 ## 3
-
-  
 
 Jak jsme byli černí, sestupovali jsme potom po žebříku dolů do bunkru s vápnem. Na dně jsme se vedli za ruce, po kotníky v jemném prachu.
 
@@ -217,8 +211,6 @@ Pak se otáčí, bere mě za rukáv a zavírá štěstím oči: „Představte 
 
 ## 4
 
-  
-
 Dneska zase padal sníh. Ne ten bílý, ale kladenský, už smíchaný s prachem. Jdu Jarmilce naproti až do kantýny. Vidím ji stát stranou, zatímco u pultu jedna nosička přes druhou nastavují nůše, do kterých prodavačky házejí čerstvé rohlíky a počítají je. Vidím Jarmilku, ruce má sepjaté pod životem, pak zdvihá lístek s pořadovým číslem a volá: „Helenko, dejte mi to už!“
 
 Konečně jí Helenka nakládá vrchovatou nůši rohlíků, bere od ní lístky a já přiskakuji a pomáhám Jarmilce do popruhů.
@@ -294,8 +286,6 @@ Vašek mě vzal kolem krku a díval se na Jarmilku zrovna jako já. „My vás,
 Ohrnula rtíky a zarděla se: „To jsem zvědavá!“ řekla a hnala to ke kantýně a třepala červenýma rukama do sněhových vloček…
 
 ## 5
-
-  
 
 Jeřáb unášel kocábku v řetězech přes celou ocelárnu, ale lidé dole klidně pracovali. Pak se kocábka snášela shůry a jeřábník ji zastavil těsně nad kolejí. Dotlačil jsem ji, dal znamení a dosedla rovnou na kolej.
 
@@ -403,8 +393,6 @@ Jarmilka bere basu s modrými hrníčky kávy, ale její parťačka na ní kři
 
 ## 6
 
-  
-
 Stojím u sedmičky, u martinské pece, a ptám se taviče Mudry: „Mistře, jestlipak jste se viděl?“
 
 Viděl se, ale dělá, že neviděl.
@@ -503,8 +491,6 @@ Jarmilka chvíli stála a koukala se na mladou paní, která dál pletla. Pak s
 
 ## 7
 
-  
-
 Po poledni jsem sešel do koupelny, aby mi lázeňský otevřel šatnu. Zapomněl jsem si nechat potvrdit lístek na cukr. Sejdu do sklepení, pak do kotelny, ale lázeňský nikde. Vylezu po schůdkách, koukám se dolů ke kotli, jestli si tam snad nezdříml…, a dole ležela Jarmilka. Tiše sestupuju, a ona spí. Hadry pod hlavou a spí.
 
 Dva metry od vlasů syčí přivřená pec.
@@ -572,8 +558,6 @@ Poprvé, co jsme se s Jarmilkou znali, poprvé mi podala ruku, takovou obyčejn
 Ve dveřích jsem se otočil a ona už zase s přehrnutým rtem hleděla ke stropu.
 
 ## 8
-
-  
 
 Jednoho srpnového dne jsme s Vaškem Průchou sedli na motorku a zajeli jsme si, tak jak jsme slíbili, za Jarmilkou. Bylo poledne a slunce svítilo tak, že zeleň zmodrala a červené střechy vesniček bolely.
 

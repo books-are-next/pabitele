@@ -3,8 +3,6 @@ title: "Dáma s\_kaméliemi"
 contentType: prose
 ---
 
-  
-
 Je poschoďový činžák na periferii a ze dvora i z pavlače toho domu se vchází rovnou do bytu a na každých dveřích těch bytů je nasazena malinká předsíňka, která se podobá dřevěné krabici, a tak nájemníci jako by vcházeli nebo vycházeli z almar, tolik se ty předsíňky podobají skříním. A točité schody vedou na pavlač a čas od času se natírají vápnem, aby se ušetřilo světlo za stmívání. A z výklenku schodů shlíží Kristus, který místo trnové koruny má věnec umělých růží, které jednou jeden nájemník vystřílel u kolotoče, a pod tím Kristem klečí domovnice a vedle ní je kbelík a ta žena mocnými pohyby drhne schody.
 
 „Dobrej večer, maminko,“ pozdravila aranžérka Rosetka.

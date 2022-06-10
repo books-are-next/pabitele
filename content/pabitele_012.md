@@ -3,8 +3,6 @@ title: Chcete vidět zlatou Prahu?
 contentType: prose
 ---
 
-  
-
 Maličký majitel pohřebního ústavu pan Bamba vyšel z města a sestoupil k řece. Pak se vydal k dubinám.
 
 „Pane Bamba!“ Otočil se.
