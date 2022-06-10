@@ -3,6 +3,8 @@ title: Pábitelé
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Před cementárnou seděli na lavičce staříci, jeden na druhého křičeli, brali se za klopy a hulákali si do uší.
@@ -248,3 +250,5 @@ Cementový prach se mrholil na koberec.
 „Vopravdu,“ řekla paní Burgánová a kolíbala se těžce ke svému muži a podala mu stočenou šňůru se zástrčkou.
 
 „Tatínku,“ řekla, „jdi vyluxovat ten záhonek aster při zdi, já potom nastříhám pánovi pěknou kytku! Darebáci…,“ dodala něžně a dívala se oknem na stráň, kde na mýtince vyrostl bílý obláček jak keř kvetoucího hlohu…
+
+</section>

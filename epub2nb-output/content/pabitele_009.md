@@ -3,6 +3,8 @@ title: Bambini di Praga 1947
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Zvon zvonil poledne.
@@ -2406,3 +2408,5 @@ Měsíc skrz větve svítil na spoutané ruce.
 Hlídač stál u lavičky potřísněný bílým světlem a křičel: „Neodcházejte ještě! Jen se podívejte na tu krásnou noc! Na ten šišatej měsíc a na tu kapustu plnou rosy! Vraťte se! Jen se podívejte, jak krásná je noc!“
 
 V srdci budovy kdosi strašlivé zanaříkal.
+
+</section>

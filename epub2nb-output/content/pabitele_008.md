@@ -3,6 +3,8 @@ title: Pohřeb
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 „Tak jsem měl na dnešek příjemnej sen. Zdálo se mi, že klečím v lese před mlátičkou a ze vzduchu přilítá svatý Josef a dělá nade mnou veliký kříž. Ráno jsem hned věděl, že vsadím lední hokej a cyklistiku, protože svatýho Josefa je devatenáctýho, měsíc třetí…,“ řekl Jarda a zapnul si kabát. Když pak chtěl Pepíkovi říct, že sportka velice podporuje snění a význam snů, utrhla mu to venku děsná šupa, pak řinčení a nadávání. Oba zapadli do vytérovaného žlábku pisoáru, a když se zvedali, všiml si Jarda, že k nim zaletěla na mléčném střepu napsaná osmička.
@@ -114,3 +116,5 @@ Hornista přivřel oči, troubil dál a mosazným nástrojem ukazoval, že tam 
 A tak Pepík, aby překřičel hukot vichru, zařval, jak mohl nejvíc: „Římská devět!“
 
 Tu chvíli ale vichřice ustala, celý pohřeb se otočil a hleděl na zpozdilého žlutého pohřebního hosta, který zajásal: „Jachting!“
+
+</section>

@@ -3,6 +3,8 @@ title: Jarmilka
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Jsem zase na huti. Už zdaleka vidím nosičku Jarmilku, jak vleče kbelíky s polívkou. Spěchám jí vstříc a tak se na ní zahledím, až klopí oči. Je v šestém měsíci, a když otevírá ústa, znovu se přesvědčuji, že jí chybí celá půlka chrupu. Ale ona je prostá, a tím kráska krásek.
@@ -652,3 +654,5 @@ Vašek řekl:
 A ukázal na nevinný domek, který vypadal jak přívoz, s červenými pelargoniemi za oknem, ve kterém se objevila Jarmilčina zmačkaná tvářička.
 
 „Že všechny na martinkách pěkně pozdravuju!“ vykřikla a zase zmizela.
+
+</section>

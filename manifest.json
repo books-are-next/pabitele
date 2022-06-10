@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-pabitele-e4cd6d1",
-  "revision": "e4cd6d1",
+  "identifier": "hrabal-pabitele-d8c9091",
+  "revision": "d8c9091",
   "readingOrder": [
     "promo.html",
     "pabitele_005.html",
@@ -28,8 +28,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:18:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870723810
+    "date": "Fri Jun 10 2022 17:53:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883622411
   },
   "documents": [
     {
@@ -47,9 +47,9 @@
     {
       "title": "Pábitelé",
       "file": "pabitele_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 8,
+      "chars": 55,
+      "ideas": 3,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -482,9 +482,9 @@
     {
       "title": "Pábitelé",
       "file": "pabitele_018.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 13,
       "prev": "pabitele_016.html",
@@ -502,9 +502,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 114,
-      "chars": 731,
-      "ideas": 15,
+      "words": 84,
+      "chars": 569,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "pabitele_018.html",
@@ -522,14 +522,14 @@
   ],
   "totals": {
     "all": {
-      "words": 59652,
-      "chars": 348204,
-      "ideas": 2487
+      "words": 59631,
+      "chars": 348097,
+      "ideas": 2483
     },
     "chapters": {
-      "words": 59533,
-      "chars": 347440,
-      "ideas": 2468
+      "words": 59542,
+      "chars": 347495,
+      "ideas": 2472
     }
   }
 }

@@ -3,6 +3,8 @@ title: Pan notář
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Každé ráno se pan notář modlil v rodinné kapli. Byl to pokoj se dvěma okny, na kterých byly obrazy z barevných skel. V jednom tom okně svatý Dionýsius, ač sťat, přeci ještě vstal a nosil tu svou uťatou hlavu kolem popraviště, a ve druhém okně je popravené svaté Agátě uťata ruka a posel s tou useknutou rukou zabloudil a vrátil se tam, odkud vyšel, znovu k té bezruké mrtvole.
@@ -278,3 +280,5 @@ Pak přiběhli lidé a otvírali trafikantovy zaťaté ruce, přinesli z řeky
 „Sesbírejte, lidi, ty peníze a cigarety,“ připomínal notář a dál hladil trafikanta a díval se na druhou stranu řeky, kde seděl rybář, navlíkal na udičku živou rybičku, živou a lesklou jak zrcátko, tak pozorně ji navlíkal, aby jí neporanil páteř, a teď ji dlouhým obloukem hodil do vody… a ještě jeden rybář seděl v zrcadle řeky proti němu jak pikový král…
 
 „A skočte pro doktora!“ radil pan notář.
+
+</section>
