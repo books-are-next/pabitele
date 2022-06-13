@@ -13,6 +13,7 @@ meta:
   modified: '2019-09-03T00:00:00.000Z'
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2500-6
 readingOrder:
   - promo.html
   - pabitele_005.html
