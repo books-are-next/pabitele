@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-pabitele-3618349",
-  "revision": "3618349",
+  "identifier": "hrabal-pabitele-77bbbdd",
+  "revision": "77bbbdd",
   "readingOrder": [
     "promo.html",
     "pabitele_005.html",
@@ -28,8 +28,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:32:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655155944206
+    "date": "Mon Jun 13 2022 22:00:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157622633
   },
   "documents": [
     {
