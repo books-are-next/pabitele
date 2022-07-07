@@ -29,7 +29,7 @@ readingOrder:
   - pabitele_015.html
   - pabitele_016.html
   - pabitele_018.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-pabitele-3c78ce3",
-  "revision": "3c78ce3",
+  "identifier": "hrabal-pabitele-0ee316a",
+  "revision": "0ee316a",
   "readingOrder": [
     "promo.html",
     "pabitele_005.html",
@@ -25,11 +25,11 @@
     "pabitele_015.html",
     "pabitele_016.html",
     "pabitele_018.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:19:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979541748
+    "date": "Thu Jul 07 2022 08:35:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182956380
   },
   "documents": [
     {
@@ -232,7 +232,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Bambini di Praga 1947",
+          "name": "Bambini di Praga 1947",
           "id": null,
           "children": [
             {
@@ -488,7 +488,7 @@
       "role": "chapter",
       "order": 13,
       "prev": "pabitele_016.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -501,11 +501,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 132,
-      "chars": 875,
+      "chars": 874,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "pabitele_018.html",
       "next": null,
@@ -523,7 +523,7 @@
   "totals": {
     "all": {
       "words": 59679,
-      "chars": 348403,
+      "chars": 348402,
       "ideas": 2492
     },
     "chapters": {

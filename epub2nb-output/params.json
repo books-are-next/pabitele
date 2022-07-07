@@ -65,7 +65,7 @@
             "filename": "pabitele_003.md",
             "xhtml": "pabitele_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -77,7 +77,7 @@
             "filename": "pabitele_004.md",
             "xhtml": "pabitele_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -245,7 +245,7 @@
             "filename": "pabitele_017.md",
             "xhtml": "pabitele_017.xhtml",
             "id": 16,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -451,6 +451,6 @@
       "user": "books-are-next",
       "repo": "pabitele"
     },
-    "generatedAt": 1655979365425
+    "generatedAt": 1657182313039
   }
 }
