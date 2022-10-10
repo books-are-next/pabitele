@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-pabitele-b2b2df6",
-  "revision": "b2b2df6",
+  "identifier": "hrabal-pabitele-9969c6c",
+  "revision": "9969c6c",
   "readingOrder": [
     "promo.html",
     "pabitele_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:04:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151459184
+    "date": "Mon Oct 10 2022 15:56:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417365390
   },
   "documents": [
     {
@@ -503,7 +503,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 132,
-      "chars": 875,
+      "chars": 876,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -523,7 +523,7 @@
   "totals": {
     "all": {
       "words": 59679,
-      "chars": 348403,
+      "chars": 348404,
       "ideas": 2492
     },
     "chapters": {
